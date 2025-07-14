@@ -1,5 +1,0 @@
-Sample Request (using curl):
-curl -s -u user:pwd http://localhost:8090/authenticate
-
-Sample Response:
-{"token":"<JWT-TOKEN>"}
